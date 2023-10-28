@@ -1,0 +1,150 @@
+2023-10-24 14:09:44,603 : INFO : test_formSubmission : Name is : User
+2023-10-24 14:09:44,699 : INFO : test_formSubmission : Email is : hello@gmail.com
+2023-10-24 14:09:44,788 : INFO : test_formSubmission : Password is : 1234567890
+2023-10-24 14:09:44,913 : INFO : test_formSubmission : Gender is : Male
+2023-10-24 14:09:45,011 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 14:09:45,234 : INFO : test_formSubmission : Name is : User1
+2023-10-24 14:09:45,234 : INFO : test_formSubmission : Name is : User1
+2023-10-24 14:09:45,338 : INFO : test_formSubmission : Email is : hello1@gmail.com
+2023-10-24 14:09:45,338 : INFO : test_formSubmission : Email is : hello1@gmail.com
+2023-10-24 14:09:45,414 : INFO : test_formSubmission : Password is : 0987654321
+2023-10-24 14:09:45,414 : INFO : test_formSubmission : Password is : 0987654321
+2023-10-24 14:09:45,556 : INFO : test_formSubmission : Gender is : Female
+2023-10-24 14:09:45,556 : INFO : test_formSubmission : Gender is : Female
+2023-10-24 14:09:45,633 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 14:09:45,633 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 14:09:48,473 : INFO : test_e2e : Getting all product Names
+2023-10-24 14:09:48,517 : INFO : test_e2e : iphone X
+2023-10-24 14:09:48,530 : INFO : test_e2e : Samsung Note 8
+2023-10-24 14:09:48,542 : INFO : test_e2e : Nokia Edge
+2023-10-24 14:09:48,895 : INFO : test_e2e : Entering country name
+2023-10-24 14:09:54,428 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-24 14:13:51,748 : INFO : test_formSubmission : Name is : User
+2023-10-24 14:13:51,771 : INFO : test_formSubmission : Email is : hello@gmail.com
+2023-10-24 14:13:51,786 : INFO : test_formSubmission : Password is : 1234567890
+2023-10-24 14:13:52,054 : INFO : test_formSubmission : Gender is : Male
+2023-10-24 14:13:52,329 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 14:13:52,961 : INFO : test_formSubmission : Name is : User1
+2023-10-24 14:13:52,961 : INFO : test_formSubmission : Name is : User1
+2023-10-24 14:13:52,987 : INFO : test_formSubmission : Email is : hello1@gmail.com
+2023-10-24 14:13:52,987 : INFO : test_formSubmission : Email is : hello1@gmail.com
+2023-10-24 14:13:53,006 : INFO : test_formSubmission : Password is : 0987654321
+2023-10-24 14:13:53,006 : INFO : test_formSubmission : Password is : 0987654321
+2023-10-24 14:13:53,465 : INFO : test_formSubmission : Gender is : Female
+2023-10-24 14:13:53,465 : INFO : test_formSubmission : Gender is : Female
+2023-10-24 14:13:53,726 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 14:13:53,726 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 14:14:02,680 : INFO : test_e2e : Getting all product Names
+2023-10-24 14:14:02,717 : INFO : test_e2e : iphone X
+2023-10-24 14:14:02,725 : INFO : test_e2e : Samsung Note 8
+2023-10-24 14:14:02,731 : INFO : test_e2e : Nokia Edge
+2023-10-24 14:14:03,488 : INFO : test_e2e : Entering country name
+2023-10-24 14:14:09,294 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-24 14:14:44,335 : INFO : test_formSubmission : Name is : User
+2023-10-24 14:14:44,435 : INFO : test_formSubmission : Email is : hello@gmail.com
+2023-10-24 14:14:44,514 : INFO : test_formSubmission : Password is : 1234567890
+2023-10-24 14:14:44,642 : INFO : test_formSubmission : Gender is : Male
+2023-10-24 14:14:44,744 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 14:14:44,946 : INFO : test_formSubmission : Name is : User1
+2023-10-24 14:14:44,946 : INFO : test_formSubmission : Name is : User1
+2023-10-24 14:14:45,040 : INFO : test_formSubmission : Email is : hello1@gmail.com
+2023-10-24 14:14:45,040 : INFO : test_formSubmission : Email is : hello1@gmail.com
+2023-10-24 14:14:45,116 : INFO : test_formSubmission : Password is : 0987654321
+2023-10-24 14:14:45,116 : INFO : test_formSubmission : Password is : 0987654321
+2023-10-24 14:14:45,250 : INFO : test_formSubmission : Gender is : Female
+2023-10-24 14:14:45,250 : INFO : test_formSubmission : Gender is : Female
+2023-10-24 14:14:45,333 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 14:14:45,333 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 14:14:48,752 : INFO : test_e2e : Getting all product Names
+2023-10-24 14:14:48,792 : INFO : test_e2e : iphone X
+2023-10-24 14:14:48,805 : INFO : test_e2e : Samsung Note 8
+2023-10-24 14:14:48,815 : INFO : test_e2e : Nokia Edge
+2023-10-24 14:14:49,105 : INFO : test_e2e : Entering country name
+2023-10-24 14:14:54,648 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-24 14:31:08,528 : INFO : test_formSubmission : Name is : User
+2023-10-24 14:31:08,634 : INFO : test_formSubmission : Email is : hello@gmail.com
+2023-10-24 14:31:08,723 : INFO : test_formSubmission : Password is : 1234567890
+2023-10-24 14:31:08,872 : INFO : test_formSubmission : Gender is : Male
+2023-10-24 14:31:08,984 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 14:31:09,230 : INFO : test_formSubmission : Name is : User1
+2023-10-24 14:31:09,230 : INFO : test_formSubmission : Name is : User1
+2023-10-24 14:31:09,334 : INFO : test_formSubmission : Email is : hello1@gmail.com
+2023-10-24 14:31:09,334 : INFO : test_formSubmission : Email is : hello1@gmail.com
+2023-10-24 14:31:09,411 : INFO : test_formSubmission : Password is : 0987654321
+2023-10-24 14:31:09,411 : INFO : test_formSubmission : Password is : 0987654321
+2023-10-24 14:31:09,546 : INFO : test_formSubmission : Gender is : Female
+2023-10-24 14:31:09,546 : INFO : test_formSubmission : Gender is : Female
+2023-10-24 14:31:09,629 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 14:31:09,629 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 14:31:12,616 : INFO : test_e2e : Getting all product Names
+2023-10-24 14:31:12,647 : INFO : test_e2e : iphone X
+2023-10-24 14:31:12,659 : INFO : test_e2e : Samsung Note 8
+2023-10-24 14:31:12,668 : INFO : test_e2e : Nokia Edge
+2023-10-24 14:31:12,964 : INFO : test_e2e : Entering country name
+2023-10-24 14:31:18,481 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-24 15:07:51,805 : INFO : test_formSubmission : Name is : User
+2023-10-24 15:07:51,905 : INFO : test_formSubmission : Email is : hello@gmail.com
+2023-10-24 15:07:51,989 : INFO : test_formSubmission : Password is : 1234567890
+2023-10-24 15:07:52,105 : INFO : test_formSubmission : Gender is : Male
+2023-10-24 15:07:52,215 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 15:07:52,605 : INFO : test_formSubmission : Name is : User1
+2023-10-24 15:07:52,605 : INFO : test_formSubmission : Name is : User1
+2023-10-24 15:07:52,703 : INFO : test_formSubmission : Email is : hello1@gmail.com
+2023-10-24 15:07:52,703 : INFO : test_formSubmission : Email is : hello1@gmail.com
+2023-10-24 15:07:52,775 : INFO : test_formSubmission : Password is : 0987654321
+2023-10-24 15:07:52,775 : INFO : test_formSubmission : Password is : 0987654321
+2023-10-24 15:07:52,919 : INFO : test_formSubmission : Gender is : Female
+2023-10-24 15:07:52,919 : INFO : test_formSubmission : Gender is : Female
+2023-10-24 15:07:52,985 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 15:07:52,985 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 15:07:55,924 : INFO : test_e2e : Getting all product Names
+2023-10-24 15:07:55,965 : INFO : test_e2e : iphone X
+2023-10-24 15:07:55,986 : INFO : test_e2e : Samsung Note 8
+2023-10-24 15:07:56,000 : INFO : test_e2e : Nokia Edge
+2023-10-24 15:07:56,344 : INFO : test_e2e : Entering country name
+2023-10-24 15:08:01,880 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-24 16:33:05,724 : INFO : test_formSubmission : Name is : User
+2023-10-24 16:33:05,825 : INFO : test_formSubmission : Email is : hello@gmail.com
+2023-10-24 16:33:05,905 : INFO : test_formSubmission : Password is : 1234567890
+2023-10-24 16:33:06,014 : INFO : test_formSubmission : Gender is : Male
+2023-10-24 16:33:06,114 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 16:33:06,324 : INFO : test_formSubmission : Name is : User1
+2023-10-24 16:33:06,324 : INFO : test_formSubmission : Name is : User1
+2023-10-24 16:33:06,425 : INFO : test_formSubmission : Email is : hello1@gmail.com
+2023-10-24 16:33:06,425 : INFO : test_formSubmission : Email is : hello1@gmail.com
+2023-10-24 16:33:06,500 : INFO : test_formSubmission : Password is : 0987654321
+2023-10-24 16:33:06,500 : INFO : test_formSubmission : Password is : 0987654321
+2023-10-24 16:33:06,636 : INFO : test_formSubmission : Gender is : Female
+2023-10-24 16:33:06,636 : INFO : test_formSubmission : Gender is : Female
+2023-10-24 16:33:06,715 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 16:33:06,715 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2023-10-24 16:33:09,344 : INFO : test_e2e : Getting all product Names
+2023-10-24 16:33:09,446 : INFO : test_e2e : iphone X
+2023-10-24 16:33:09,462 : INFO : test_e2e : Samsung Note 8
+2023-10-24 16:33:09,473 : INFO : test_e2e : Nokia Edge
+2023-10-24 16:33:09,809 : INFO : test_e2e : Entering country name
+2023-10-24 16:33:15,258 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
